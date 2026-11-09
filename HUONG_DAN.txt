@@ -1,0 +1,11 @@
+BÀI GIẢNG TƯƠNG TÁC HTML5 - CHỦ ĐỀ 3: RÈN LUYỆN BẢN THÂN
+
+CÁCH DÙNG TRÊN MÁY: giải nén toàn bộ, mở file index.html bằng Chrome/Edge/Firefox.
+(Giữ nguyên thư mục "media" và "img" cạnh file index.html.)
+
+CÁCH CHIA SẺ ĐỂ HỌC TRỰC TUYẾN: tải cả thư mục này lên một nơi lưu trữ web tĩnh rồi gửi đường link, ví dụ:
+ - Netlify Drop (app.netlify.com/drop): kéo thả thư mục -> nhận link ngay.
+ - GitHub Pages, Cloudflare Pages, hoặc website/hosting của nhà trường.
+
+ĐIỀU KHIỂN: nút ◀ ▶, phím ← →, Space; vuốt trái/phải trên điện thoại; F = toàn màn hình.
+Slide 21 và 23: bấm ▶ (hoặc bấm vào từng ô) để mở lần lượt từng đáp án.
